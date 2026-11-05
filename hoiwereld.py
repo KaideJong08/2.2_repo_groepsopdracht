@@ -1,0 +1,2 @@
+print("heloword")
+prnt('helloworld')
